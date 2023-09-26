@@ -7,7 +7,7 @@
   <h3 align="center">CSV to SQL Converter</h3>
 
   <p align="center">
-    An Awesome Converter to change your csv into a MySQL create table command with data
+    An Awesome Converter to change your csv into a MySQL create table command with data. Made this for myself since i had so many use cases in my workflow to convert csv to sql commands.
     <br/>
     <br/>
     <a href="https://github.com/sabik360/CSV-to-SQL-Converter"><strong>Explore the docs »</strong></a>
