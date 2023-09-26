@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/sabik360/CSV-to-SQL-Converter">
-    <img src="https://raw.githubusercontent.com/sabik360/CSV-to-SQL-Converter/main/Logo.PNG" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/sabik360/CSV-to-SQL-Converter/main/convert.png">
   </a>
 
   <h3 align="center">CSV to SQL Converter</h3>
