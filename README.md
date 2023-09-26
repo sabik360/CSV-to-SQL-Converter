@@ -27,8 +27,8 @@ This is a simple Python application that converts CSV files to SQL scripts. It a
 
 ## Built With
 
-Python 3
-PyQt5
+Python 3,
+ PyQt5
 
 
 ## Getting Started
@@ -77,10 +77,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/sabik360/CSV
 ## Authors
 
 * **Sabik** - *Data Analyst* - [Sabik](https://github.com/sabik360) - *Founder*
-* **** - ** - []() - **
 
-## Acknowledgements
 
-* []()
-* []()
-* []()
