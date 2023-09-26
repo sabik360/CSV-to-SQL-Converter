@@ -21,6 +21,8 @@
 
 ![Downloads](https://img.shields.io/github/downloads/sabik360/CSV-to-SQL-Converter/total) ![Contributors](https://img.shields.io/github/contributors/sabik360/CSV-to-SQL-Converter?color=dark-green) ![Issues](https://img.shields.io/github/issues/sabik360/CSV-to-SQL-Converter) ![License](https://img.shields.io/github/license/sabik360/CSV-to-SQL-Converter) 
 
+![grab-landing-page](https://raw.githubusercontent.com/sabik360/CSV-to-SQL-Converter/main/preview1.PNG) 
+
 ## About The Project
 
 This is a simple Python application that converts CSV files to SQL scripts. It allows you to select a CSV file, convert it to a MySQL CREATE TABLE command and a series of MySQL INSERT INTO commands, and save the resulting SQL script to a text file.
